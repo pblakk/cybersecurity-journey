@@ -1,0 +1,13 @@
+# Malware samples 
+malware-samples/ 
+*.pcap 
+*.exe 
+passwords.txt 
+ 
+# VM files 
+*.vmdk 
+*.vdi 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db 
