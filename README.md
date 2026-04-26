@@ -9,21 +9,22 @@ Building toward a career as a defensive malware analyst and reverse engineer.
 
 | Course | Title | Relevance |
 |--------|-------|-----------|
-| IT 200 | IT Fundamentals | Hardware, OS, system concepts |
+| IT 200 | IT Fundamentals | Hardware, OS, systems thinking |
 | IT 202 | Computer Operating Systems | OS internals — direct malware analysis foundation |
-| IT 212 | Intro to Computer Networks | TCP/IP, protocols, topology |
+| IT 212 | Intro to Computer Networks | TCP/IP, protocols, network topology |
 | DAD 220 | Intro to Structured Databases | Basic SQL — SIEM query syntax familiarity |
-| CYB 200 | Cybersecurity Foundations | Threat landscape, security principles |
-| CYB 210 | Computer Networking | Security-focused networking, packet analysis |
+| CYB 200 | Cybersecurity Foundations | Threat landscape, CIA triad, incident response |
+| CYB 210 | Computer Networking | Security networking, VLANs, subnetting, Packet Tracer |
 | IT 140 | Intro to Scripting (Python) | Analysis tooling and automation |
-| CYB 220 | Network Security | Firewalls, IDS, C2 detection — BTL1 prep |
+| CYB 220 | Network Security | Firewalls, IDS/IPS, Splunk, C2 detection — BTL1 prep |
+| CYB 250 | Cyber Defense | STRIDE, cryptography, threat modeling, case studies |
+| IT 145 | App Development (Java) | OOP, polymorphism, Android malware foundation |
+| PHL 260 | Ethical Problem-Solving | Responsible disclosure, legal boundaries, ethics |
 
 ## Current coursework
-
 | Course | Title |
 |--------|-------|
-| CYB 250 | Cyber Defense |
-| IT 145 | Foundations in App Development (Java) |
+| actively studying | C programming, Python refresh, Ghidra, TryHackMe |## Completed coursework
 
 ---
 
