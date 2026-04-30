@@ -11,7 +11,7 @@ Cyber Security 101 → SOC Level 1
 | Module | Path | Status | Date |
 |--------|------|--------|------|
 | Pre-Security | Pre-Security | Completed | 2 Januaray 2026|
-| TCPdump Basics | Cyber Security 101 | In progress |
+| TCPdump Basics | Cyber Security 101 | In progress — Task 3 Filtering | |
 | | | | |
 
 ## Write-up index
